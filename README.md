@@ -3,7 +3,7 @@
 **Cross-Site Scripting (XSS) Vulnerability Scanner**
 
 > Built for Kali Linux | Python 3 | Terminal Tool | Selenium Headless Chrome  
-> By [UI-HACKER-india](https://github.com/UI-HACKER-india)
+> By [ Jitendra Sahu ](https://github.com/iamstudent-000)
 
 ---
 
@@ -206,9 +206,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-**UI-HACKER-india**  
-🎥 YouTube: [UI-HACKER-india](https://youtube.com/@UI-HACKER-india)  
-🐙 GitHub: [UI-HACKER-india](https://github.com/UI-HACKER-india)
+**Jitendra Sahu**  
 
 ---
 
