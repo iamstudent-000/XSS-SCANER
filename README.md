@@ -53,7 +53,7 @@ alert() fires? → YES = CONFIRMED XSS ✅  |  NO = NOT VULNERABLE ❌
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/UI-HACKER-india/xss-scan.git
+git clone [https://github.com/iamstudent-000/XSS-SCANER.git]
 cd xss-scan
 ```
 
