@@ -54,7 +54,7 @@ alert() fires? → YES = CONFIRMED XSS ✅  |  NO = NOT VULNERABLE ❌
 
 ```bash
 git clone https://github.com/iamstudent-000/XSS-SCANER.git
-cd xss-scan
+cd XSS-SCANER
 ```
 
 ### 2. Install dependencies
